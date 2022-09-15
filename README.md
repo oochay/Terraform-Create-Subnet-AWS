@@ -1,2 +1,2 @@
 # Terraform-Create-Subnet-AWS
-Auto Create Subnet on AWS using Terraform
+Auto Create public and private subnet per awailability zone on AWS using Terraform
